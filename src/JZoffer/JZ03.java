@@ -1,3 +1,5 @@
+package JZoffer;
+
 class JZ03 {
     public int findRepeatNumber(int[] nums) {
         int len = nums.length;
