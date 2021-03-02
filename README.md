@@ -5,4 +5,5 @@
 | 2021.02.07 | [T665.非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/) | 分情况讨论，可以通过看前一个数字大小来判断   |
 | 2021.02.08 | [T978.最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray/) | 滑动窗口问题，介定好左右位置即可             |
 | 2021.03.01 | [T303.区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) | 前缀和，使用数组存储前i个数的和              |
+| 2021.03.02 | [T304.二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | 前缀和，分行处理                             |
 
